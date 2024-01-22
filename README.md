@@ -1,1 +1,1 @@
-A partir do processador RISC-V feito pela Trieremer, foi-se adicionado um trojan com o objetivo de atacr seu funcionamento
+A partir do processador RISC-V da plataforma Trireme, foi adicionado um trojan com o objetivo de atacar seu funcionamento
