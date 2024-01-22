@@ -1,0 +1,7 @@
+# This gitignore is mostly just to make sure the binaries directory is still
+# tracked by the repo, even though it will be empty when you clone the repo.
+
+# Add some binary output formats
+*.vmh
+*.dump
+*.bin
